@@ -1,7 +1,7 @@
 # Tower-of-Hanoi-prolog
 Tower of Hanoi
 
-#HOW TO RUN hanoi_web.pl
+**HOW TO RUN**
 
 BEFORE YOU START
 - SWI-Prolog must be installed. (Check later with: swipl --version)
